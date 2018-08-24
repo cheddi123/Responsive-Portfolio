@@ -120,10 +120,6 @@ ul{
      border-bottom: #777777 2px solid ;
  }
 
-  /* section.borderBottom {
-    border-bottom: 2px solid #777777 ;
-   
- } */
  .marginTop{
      margin-top: 40px;
  }
@@ -192,9 +188,7 @@ a:visited{
 
 
 
-  /* .sidebar{
-      float: right;
-  } */
+  
   
 @media screen and (max-width: 960px) {
     body {
